@@ -26,7 +26,7 @@ I recommend you to set correct date and time on OpenTX setup menu.
 7. Click "ExportSRT" button to export SRT file.
 
 ## srtFormat.py
-You can edit srtFormat.py to add new OpenTX log items and format.
+You can edit srtFormat.py to add new OpenTX log items and edit format.
 
 ## Sample video
 [![Alt text](https://img.youtube.com/vi/uzMHITpwiQ8/0.jpg)](https://www.youtube.com/watch?v=uzMHITpwiQ8)
