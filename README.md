@@ -25,5 +25,8 @@ I recommend you to set correct date and time on OpenTX setup menu.
 6. Select flight session from pull down menu. OpenTX log usually contains multiple flight sessions.
 7. Click "ExportSRT" button to export SRT file.
 
+## srtFormat.py
+You can edit srtFormat.py to add new OpenTX log items and format.
+
 ## Sample video
 [![Alt text](https://img.youtube.com/vi/uzMHITpwiQ8/0.jpg)](https://www.youtube.com/watch?v=uzMHITpwiQ8)
