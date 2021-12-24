@@ -16,5 +16,5 @@ https://oscarliang.com/log-gps-coordinates-taranis/
 I recommend you to set correct date and time on OpenTX setup menu also.
 
 ## Usage
-![OpenTX2SRT](/images/OpenTX2SRT.png)
+<img src='/images/OpenTX2SRT.png' width=300>
 
